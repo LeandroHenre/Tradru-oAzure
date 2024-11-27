@@ -1,0 +1,11 @@
+==================================================================
+Sistema criado no curso para tradução de documento docx baseado na
+inteligência artificial do Azure criando o serviço dentro da 
+plataforma utilizando o endereço e a autenticação.
+Posteriormente baixando um musica em inglês salvando em docx.
+==================================================================
+
+Passo seguinte foi entrar no colab um serviço da google online
+(https://colab.research.google.com/) desenvolver o projeto.
+
+==================================================================
